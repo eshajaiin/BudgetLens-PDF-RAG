@@ -1,0 +1,11 @@
+pymupdf
+chromadb
+sentence-transformers
+streamlit
+requests
+python-dotenv
+pandas
+langdetect
+openai
+pytesseract
+pillow
